@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1",
+      "descricao": "Uno",
+      "marca": "Fiat",
+      "ano": "2009",
+      "quilometragem": "95042"
+    },
+    {
+      "id": "2",
+      "descricao": "Celta",
+      "marca": "Chevrolet",
+      "ano": "2013",
+      "quilometragem": "44502"
+    }
+  ]
